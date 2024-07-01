@@ -1,8 +1,9 @@
 Font  Baloo Da 2
 Color1  #f2f7f4  Background, Light
 Color2  #9fc79d  Highlight/Hotlink
-Color3  #40613f  Text
+Color3  #40613f  
 Color4  #0a2200  "Black"
+Color5  #6a451f  Text
 
 
 text, Homepage:
